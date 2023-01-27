@@ -1,0 +1,55 @@
+body{
+        background-image: linear-gradient(to right,#8360c3, #2ebf91);
+}
+h1 {
+    font-size: 2em;
+    color: blue;
+    text-align: center;
+    }
+input[type="text"], input[type="password"] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+}
+        
+input[type="submit"] {
+        width: 100%;
+        background-color: blue;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+}
+        
+       
+        
+.container {
+        width: 500px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        margin: 50px auto;
+        position: relative;
+        top:80px;
+        left:30px; 
+}    
+        
+       
+        
+.text-box{
+        border: 1px solid #ccc;
+        padding: 12px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        width: 100%;
+}
+        
+       
+        
+        
+        
+        
